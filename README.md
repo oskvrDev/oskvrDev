@@ -1,7 +1,7 @@
 Hi my name is Oskar Myszka ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ====================================================================================================================================
 
-Software Engineer
+Graduate Software Engineer
 -----------------
 
 I am a software engineering graduate, specifically in games development. I graduated in 2023 and i'm now looking to apply my skills in a professional environment. My favourite programming language would be C# however, I have touched upon and created projects in C++ as well as using HTML, CSS, JavaScript, Flask for the purposes of web development.
