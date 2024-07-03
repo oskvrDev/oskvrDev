@@ -10,8 +10,7 @@ I have created projects in C# and C++ such as: Artificial intelligence for a fir
 
 * 🌍  I'm based in Dunstable, UK
 * ✉️  You can contact me at [oskarmyszka72@googlemail.com](mailto:oskarmyszka72@googlemail.com)
-* 🧠  I'm learning .NET Framework
-* ⚡  I am currently developing a webpage using .NET to create a portfolio
+* 🧠  Looking to expand my C# knowledge by creating innovative projects.
 
 <!--
 **oskvrDev/oskvrDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
